@@ -1,0 +1,6 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 16. Bit Exchange (Advanced)\bin\Debug\Problem_16.Bit_Exchange__Advanced_.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 16. Bit Exchange (Advanced)\bin\Debug\Problem_16.Bit_Exchange__Advanced_.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 16. Bit Exchange (Advanced)\bin\Debug\Problem_16.Bit_Exchange__Advanced_.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 16. Bit Exchange (Advanced)\obj\Debug\Problem 16. Bit Exchange (Advanced).csprojResolveAssemblyReference.cache
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 16. Bit Exchange (Advanced)\obj\Debug\Problem_16.Bit_Exchange__Advanced_.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 16. Bit Exchange (Advanced)\obj\Debug\Problem_16.Bit_Exchange__Advanced_.pdb

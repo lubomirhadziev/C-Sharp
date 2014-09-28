@@ -1,0 +1,5 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\bin\Debug\Problem_9.Trapezoids.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 9. Trapezoids\obj\Debug\Problem_9.Trapezoids.pdb

@@ -1,0 +1,6 @@
+E:\C#\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe.config
+E:\C#\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.exe
+E:\C#\ConsoleInputOutput\ConsoleInputOutput\bin\Debug\ConsoleInputOutput.pdb
+E:\C#\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\Problem.5.csprojResolveAssemblyReference.cache
+E:\C#\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.exe
+E:\C#\ConsoleInputOutput\ConsoleInputOutput\obj\Debug\ConsoleInputOutput.pdb

@@ -1,0 +1,5 @@
+E:\C#\PrimitiveDataTypesAndVariables\Print the ASCII Table\bin\Debug\Print the ASCII Table.exe.config
+E:\C#\PrimitiveDataTypesAndVariables\Print the ASCII Table\bin\Debug\Print the ASCII Table.exe
+E:\C#\PrimitiveDataTypesAndVariables\Print the ASCII Table\bin\Debug\Print the ASCII Table.pdb
+E:\C#\PrimitiveDataTypesAndVariables\Print the ASCII Table\obj\Debug\Print the ASCII Table.exe
+E:\C#\PrimitiveDataTypesAndVariables\Print the ASCII Table\obj\Debug\Print the ASCII Table.pdb

@@ -1,0 +1,6 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\obj\Debug\Problem 11. Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_3.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_3.pdb

@@ -1,0 +1,5 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 15. Bits Exchange\bin\Debug\Problem_15.Bits_Exchange.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 15. Bits Exchange\obj\Debug\Problem_15.Bits_Exchange.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 15. Bits Exchange\obj\Debug\Problem_15.Bits_Exchange.pdb

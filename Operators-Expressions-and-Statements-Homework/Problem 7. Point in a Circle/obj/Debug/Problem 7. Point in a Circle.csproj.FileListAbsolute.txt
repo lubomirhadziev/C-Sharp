@@ -1,0 +1,6 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\bin\Debug\Problem_7.Point_in_a_Circle.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\obj\Debug\Problem_7.Point_in_a_Circle.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 7. Point in a Circle\obj\Debug\Problem 7. Point in a Circle.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem.5", "ConsoleInputOutput\Problem.5.csproj", "{D167E2F8-27D3-48DE-98B1-8AA2B458CBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Quadratic Equation", "Problem 6. Quadratic Equation\Problem 6. Quadratic Equation.csproj", "{14ECFCD8-BFCD-4244-B9F8-D5659A1C9278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D167E2F8-27D3-48DE-98B1-8AA2B458CBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D167E2F8-27D3-48DE-98B1-8AA2B458CBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D167E2F8-27D3-48DE-98B1-8AA2B458CBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D167E2F8-27D3-48DE-98B1-8AA2B458CBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ECFCD8-BFCD-4244-B9F8-D5659A1C9278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ECFCD8-BFCD-4244-B9F8-D5659A1C9278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ECFCD8-BFCD-4244-B9F8-D5659A1C9278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ECFCD8-BFCD-4244-B9F8-D5659A1C9278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

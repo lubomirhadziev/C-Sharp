@@ -1,0 +1,5 @@
+E:\C#\PrimitiveDataTypesAndVariables\DoubleOrFloat\bin\Debug\DoubleOrFloat.exe.config
+E:\C#\PrimitiveDataTypesAndVariables\DoubleOrFloat\bin\Debug\DoubleOrFloat.exe
+E:\C#\PrimitiveDataTypesAndVariables\DoubleOrFloat\bin\Debug\DoubleOrFloat.pdb
+E:\C#\PrimitiveDataTypesAndVariables\DoubleOrFloat\obj\Debug\DoubleOrFloat.exe
+E:\C#\PrimitiveDataTypesAndVariables\DoubleOrFloat\obj\Debug\DoubleOrFloat.pdb

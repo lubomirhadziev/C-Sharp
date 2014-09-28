@@ -1,0 +1,6 @@
+E:\C#\PrimitiveDataTypesAndVariables\Problem 13. - Comparing Floats\bin\Debug\Problem_13.__Comparing_Floats.exe.config
+E:\C#\PrimitiveDataTypesAndVariables\Problem 13. - Comparing Floats\bin\Debug\Problem_13.__Comparing_Floats.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 13. - Comparing Floats\bin\Debug\Problem_13.__Comparing_Floats.pdb
+E:\C#\PrimitiveDataTypesAndVariables\Problem 13. - Comparing Floats\obj\Debug\Problem 13. - Comparing Floats.csprojResolveAssemblyReference.cache
+E:\C#\PrimitiveDataTypesAndVariables\Problem 13. - Comparing Floats\obj\Debug\Problem_13.__Comparing_Floats.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 13. - Comparing Floats\obj\Debug\Problem_13.__Comparing_Floats.pdb

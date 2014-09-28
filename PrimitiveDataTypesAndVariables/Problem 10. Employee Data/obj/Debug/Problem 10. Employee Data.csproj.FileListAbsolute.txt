@@ -1,0 +1,5 @@
+E:\C#\PrimitiveDataTypesAndVariables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe.config
+E:\C#\PrimitiveDataTypesAndVariables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 10. Employee Data\bin\Debug\Problem_10.Employee_Data.pdb
+E:\C#\PrimitiveDataTypesAndVariables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 10. Employee Data\obj\Debug\Problem_10.Employee_Data.pdb

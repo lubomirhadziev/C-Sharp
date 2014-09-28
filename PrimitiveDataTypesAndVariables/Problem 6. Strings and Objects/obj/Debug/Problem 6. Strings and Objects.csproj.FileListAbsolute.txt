@@ -1,0 +1,5 @@
+E:\C#\PrimitiveDataTypesAndVariables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe.config
+E:\C#\PrimitiveDataTypesAndVariables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 6. Strings and Objects\bin\Debug\Problem_6.Strings_and_Objects.pdb
+E:\C#\PrimitiveDataTypesAndVariables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 6. Strings and Objects\obj\Debug\Problem_6.Strings_and_Objects.pdb

@@ -1,0 +1,5 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\bin\Debug\Problem_6.Four_Digit_Number.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Problem 6. Four-Digit Number\obj\Debug\Problem_6.Four_Digit_Number.pdb

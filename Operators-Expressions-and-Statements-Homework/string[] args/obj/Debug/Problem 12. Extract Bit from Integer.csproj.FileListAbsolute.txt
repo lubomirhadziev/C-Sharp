@@ -1,0 +1,5 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\string[] args\bin\Debug\string[] args.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\string[] args\bin\Debug\string[] args.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\string[] args\bin\Debug\string[] args.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\string[] args\obj\Debug\string[] args.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\string[] args\obj\Debug\string[] args.pdb

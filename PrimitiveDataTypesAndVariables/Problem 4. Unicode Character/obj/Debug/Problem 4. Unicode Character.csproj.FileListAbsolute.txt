@@ -1,0 +1,5 @@
+E:\C#\PrimitiveDataTypesAndVariables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe.config
+E:\C#\PrimitiveDataTypesAndVariables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 4. Unicode Character\bin\Debug\Problem_4.Unicode_Character.pdb
+E:\C#\PrimitiveDataTypesAndVariables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.exe
+E:\C#\PrimitiveDataTypesAndVariables\Problem 4. Unicode Character\obj\Debug\Problem_4.Unicode_Character.pdb

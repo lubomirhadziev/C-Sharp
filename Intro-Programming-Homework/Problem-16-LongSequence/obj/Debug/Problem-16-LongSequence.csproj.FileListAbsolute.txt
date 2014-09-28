@@ -1,0 +1,5 @@
+E:\C#\Intro-Programming-Homework\Problem-16-LongSequence\bin\Debug\Problem-16-LongSequence.exe.config
+E:\C#\Intro-Programming-Homework\Problem-16-LongSequence\bin\Debug\Problem-16-LongSequence.exe
+E:\C#\Intro-Programming-Homework\Problem-16-LongSequence\bin\Debug\Problem-16-LongSequence.pdb
+E:\C#\Intro-Programming-Homework\Problem-16-LongSequence\obj\Debug\Problem-16-LongSequence.exe
+E:\C#\Intro-Programming-Homework\Problem-16-LongSequence\obj\Debug\Problem-16-LongSequence.pdb

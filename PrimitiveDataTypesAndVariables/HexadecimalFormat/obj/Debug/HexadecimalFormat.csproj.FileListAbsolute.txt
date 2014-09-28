@@ -1,0 +1,5 @@
+E:\C#\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+E:\C#\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+E:\C#\PrimitiveDataTypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+E:\C#\PrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+E:\C#\PrimitiveDataTypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

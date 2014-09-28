@@ -1,0 +1,5 @@
+E:\C#\Intro-Programming-Homework\Problem-6-PrintNumbers\bin\Debug\Problem-6-PrintNumbers.exe.config
+E:\C#\Intro-Programming-Homework\Problem-6-PrintNumbers\bin\Debug\Problem-6-PrintNumbers.exe
+E:\C#\Intro-Programming-Homework\Problem-6-PrintNumbers\bin\Debug\Problem-6-PrintNumbers.pdb
+E:\C#\Intro-Programming-Homework\Problem-6-PrintNumbers\obj\Debug\Problem-6-PrintNumbers.exe
+E:\C#\Intro-Programming-Homework\Problem-6-PrintNumbers\obj\Debug\Problem-6-PrintNumbers.pdb

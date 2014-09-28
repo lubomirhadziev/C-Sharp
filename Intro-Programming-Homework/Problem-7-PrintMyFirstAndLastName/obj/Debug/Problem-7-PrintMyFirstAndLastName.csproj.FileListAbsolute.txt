@@ -1,0 +1,5 @@
+E:\C#\Intro-Programming-Homework\Problem-7-PrintMyFirstAndLastName\bin\Debug\Problem-7-PrintMyFirstAndLastName.exe.config
+E:\C#\Intro-Programming-Homework\Problem-7-PrintMyFirstAndLastName\bin\Debug\Problem-7-PrintMyFirstAndLastName.exe
+E:\C#\Intro-Programming-Homework\Problem-7-PrintMyFirstAndLastName\bin\Debug\Problem-7-PrintMyFirstAndLastName.pdb
+E:\C#\Intro-Programming-Homework\Problem-7-PrintMyFirstAndLastName\obj\Debug\Problem-7-PrintMyFirstAndLastName.exe
+E:\C#\Intro-Programming-Homework\Problem-7-PrintMyFirstAndLastName\obj\Debug\Problem-7-PrintMyFirstAndLastName.pdb

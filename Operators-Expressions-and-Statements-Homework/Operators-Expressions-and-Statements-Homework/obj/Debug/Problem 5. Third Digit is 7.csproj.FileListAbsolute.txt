@@ -1,0 +1,6 @@
+E:\C#\Operators-Expressions-and-Statements-Homework\Operators-Expressions-and-Statements-Homework\bin\Debug\Operators-Expressions-and-Statements-Homework.exe.config
+E:\C#\Operators-Expressions-and-Statements-Homework\Operators-Expressions-and-Statements-Homework\bin\Debug\Operators-Expressions-and-Statements-Homework.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Operators-Expressions-and-Statements-Homework\bin\Debug\Operators-Expressions-and-Statements-Homework.pdb
+E:\C#\Operators-Expressions-and-Statements-Homework\Operators-Expressions-and-Statements-Homework\obj\Debug\Problem 5. Third Digit is 7.csprojResolveAssemblyReference.cache
+E:\C#\Operators-Expressions-and-Statements-Homework\Operators-Expressions-and-Statements-Homework\obj\Debug\Operators-Expressions-and-Statements-Homework.exe
+E:\C#\Operators-Expressions-and-Statements-Homework\Operators-Expressions-and-Statements-Homework\obj\Debug\Operators-Expressions-and-Statements-Homework.pdb

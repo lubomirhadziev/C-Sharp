@@ -1,0 +1,6 @@
+E:\C#\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+E:\C#\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
+E:\C#\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb
+E:\C#\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Problem-4.csprojResolveAssemblyReference.cache
+E:\C#\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+E:\C#\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb
