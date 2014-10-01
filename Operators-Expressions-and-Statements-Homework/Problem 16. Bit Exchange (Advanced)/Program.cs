@@ -40,19 +40,25 @@ class Program
 
             for (int i = 0; i < k; i++)
             {
-                bitsToExchange[i] = p + i;
-                exchangeBitsWith[i] = q + i;
+                bitsToExchange[i] = p + i; //3, 4, 5
+                exchangeBitsWith[i] = q + i; //24, 25, 26
             }
 
             //count the array bitsToExchange
             int bitsToExchangeCount = bitsToExchange.Length;
 
-            for (int i = 0; i < bitsToExchangeCount; i++)
+            for (int i = 0; i < k; i++)
             {
+                //p
                 byte bitToExchange = getBitAtPosition(number, bitsToExchange[i]);
+                
+                //q
                 byte exchangeBitWith = getBitAtPosition(number, exchangeBitsWith[i]);
 
+                //p with q
                 number = changeBitAtPoisiton(number, bitsToExchange[i], exchangeBitWith);
+
+                //q with p
                 number = changeBitAtPoisiton(number, exchangeBitsWith[i], bitToExchange);
             }
 
