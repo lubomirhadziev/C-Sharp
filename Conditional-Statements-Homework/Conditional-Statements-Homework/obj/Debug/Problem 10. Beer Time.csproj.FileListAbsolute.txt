@@ -1,0 +1,6 @@
+E:\C#\Conditional-Statements-Homework\Conditional-Statements-Homework\bin\Debug\Conditional-Statements-Homework.exe.config
+E:\C#\Conditional-Statements-Homework\Conditional-Statements-Homework\bin\Debug\Conditional-Statements-Homework.exe
+E:\C#\Conditional-Statements-Homework\Conditional-Statements-Homework\bin\Debug\Conditional-Statements-Homework.pdb
+E:\C#\Conditional-Statements-Homework\Conditional-Statements-Homework\obj\Debug\Problem 10. Beer Time.csprojResolveAssemblyReference.cache
+E:\C#\Conditional-Statements-Homework\Conditional-Statements-Homework\obj\Debug\Conditional-Statements-Homework.exe
+E:\C#\Conditional-Statements-Homework\Conditional-Statements-Homework\obj\Debug\Conditional-Statements-Homework.pdb
