@@ -1,0 +1,5 @@
+E:\C-Sharp\6. Loops-Homework\Problem 6. Calculate N!  K!\bin\Debug\Problem_6.Calculate_N___K_.exe.config
+E:\C-Sharp\6. Loops-Homework\Problem 6. Calculate N!  K!\bin\Debug\Problem_6.Calculate_N___K_.exe
+E:\C-Sharp\6. Loops-Homework\Problem 6. Calculate N!  K!\bin\Debug\Problem_6.Calculate_N___K_.pdb
+E:\C-Sharp\6. Loops-Homework\Problem 6. Calculate N!  K!\obj\Debug\Problem_6.Calculate_N___K_.exe
+E:\C-Sharp\6. Loops-Homework\Problem 6. Calculate N!  K!\obj\Debug\Problem_6.Calculate_N___K_.pdb

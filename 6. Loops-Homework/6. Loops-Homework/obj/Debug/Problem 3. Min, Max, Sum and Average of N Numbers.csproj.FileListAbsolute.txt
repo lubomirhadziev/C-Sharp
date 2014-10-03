@@ -1,0 +1,6 @@
+E:\C-Sharp\6. Loops-Homework\6. Loops-Homework\bin\Debug\_6.Loops_Homework.exe.config
+E:\C-Sharp\6. Loops-Homework\6. Loops-Homework\bin\Debug\_6.Loops_Homework.exe
+E:\C-Sharp\6. Loops-Homework\6. Loops-Homework\bin\Debug\_6.Loops_Homework.pdb
+E:\C-Sharp\6. Loops-Homework\6. Loops-Homework\obj\Debug\Problem 3. Min, Max, Sum and Average of N Numbers.csprojResolveAssemblyReference.cache
+E:\C-Sharp\6. Loops-Homework\6. Loops-Homework\obj\Debug\_6.Loops_Homework.exe
+E:\C-Sharp\6. Loops-Homework\6. Loops-Homework\obj\Debug\_6.Loops_Homework.pdb

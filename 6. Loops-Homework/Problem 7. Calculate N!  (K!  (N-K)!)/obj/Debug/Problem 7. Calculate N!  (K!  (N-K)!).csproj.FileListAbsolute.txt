@@ -1,0 +1,6 @@
+E:\C-Sharp\6. Loops-Homework\Problem 7. Calculate N!  (K!  (N-K)!)\bin\Debug\Problem_7.Calculate_N____K____N_K___.exe.config
+E:\C-Sharp\6. Loops-Homework\Problem 7. Calculate N!  (K!  (N-K)!)\bin\Debug\Problem_7.Calculate_N____K____N_K___.exe
+E:\C-Sharp\6. Loops-Homework\Problem 7. Calculate N!  (K!  (N-K)!)\bin\Debug\Problem_7.Calculate_N____K____N_K___.pdb
+E:\C-Sharp\6. Loops-Homework\Problem 7. Calculate N!  (K!  (N-K)!)\obj\Debug\Problem 7. Calculate N!  (K!  (N-K)!).csprojResolveAssemblyReference.cache
+E:\C-Sharp\6. Loops-Homework\Problem 7. Calculate N!  (K!  (N-K)!)\obj\Debug\Problem_7.Calculate_N____K____N_K___.exe
+E:\C-Sharp\6. Loops-Homework\Problem 7. Calculate N!  (K!  (N-K)!)\obj\Debug\Problem_7.Calculate_N____K____N_K___.pdb
