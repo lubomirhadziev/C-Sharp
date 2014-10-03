@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Calculate N!  (K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8. Catalan Numbers", "Problem 8. Catalan Numbers\Problem 8. Catalan Numbers.csproj", "{C7C41D01-4A67-4AFE-9904-BBF3C808787B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9. Matrix of Numbers", "Problem 9. Matrix of Numbers\Problem 9. Matrix of Numbers.csproj", "{C3BFC19C-2E7D-4422-975A-5DE06994CDDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{C7C41D01-4A67-4AFE-9904-BBF3C808787B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C41D01-4A67-4AFE-9904-BBF3C808787B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C41D01-4A67-4AFE-9904-BBF3C808787B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BFC19C-2E7D-4422-975A-5DE06994CDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BFC19C-2E7D-4422-975A-5DE06994CDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BFC19C-2E7D-4422-975A-5DE06994CDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BFC19C-2E7D-4422-975A-5DE06994CDDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

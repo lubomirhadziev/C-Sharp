@@ -1,0 +1,5 @@
+E:\C-Sharp\6. Loops-Homework\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.exe.config
+E:\C-Sharp\6. Loops-Homework\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.exe
+E:\C-Sharp\6. Loops-Homework\Problem 9. Matrix of Numbers\bin\Debug\Problem_9.Matrix_of_Numbers.pdb
+E:\C-Sharp\6. Loops-Homework\Problem 9. Matrix of Numbers\obj\Debug\Problem_9.Matrix_of_Numbers.exe
+E:\C-Sharp\6. Loops-Homework\Problem 9. Matrix of Numbers\obj\Debug\Problem_9.Matrix_of_Numbers.pdb
