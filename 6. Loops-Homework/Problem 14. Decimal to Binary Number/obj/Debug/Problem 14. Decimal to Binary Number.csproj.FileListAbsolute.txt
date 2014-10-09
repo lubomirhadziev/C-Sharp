@@ -1,0 +1,6 @@
+E:\C-Sharp\6. Loops-Homework\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe.config
+E:\C-Sharp\6. Loops-Homework\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.exe
+E:\C-Sharp\6. Loops-Homework\Problem 14. Decimal to Binary Number\bin\Debug\Problem_14.Decimal_to_Binary_Number.pdb
+E:\C-Sharp\6. Loops-Homework\Problem 14. Decimal to Binary Number\obj\Debug\Problem 14. Decimal to Binary Number.csprojResolveAssemblyReference.cache
+E:\C-Sharp\6. Loops-Homework\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.exe
+E:\C-Sharp\6. Loops-Homework\Problem 14. Decimal to Binary Number\obj\Debug\Problem_14.Decimal_to_Binary_Number.pdb
