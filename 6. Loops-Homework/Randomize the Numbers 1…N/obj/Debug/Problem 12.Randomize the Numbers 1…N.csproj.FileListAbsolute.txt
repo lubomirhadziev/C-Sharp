@@ -1,0 +1,5 @@
+E:\C-Sharp\6. Loops-Homework\Randomize the Numbers 1…N\bin\Debug\Randomize the Numbers 1…N.exe.config
+E:\C-Sharp\6. Loops-Homework\Randomize the Numbers 1…N\bin\Debug\Randomize the Numbers 1…N.exe
+E:\C-Sharp\6. Loops-Homework\Randomize the Numbers 1…N\bin\Debug\Randomize the Numbers 1…N.pdb
+E:\C-Sharp\6. Loops-Homework\Randomize the Numbers 1…N\obj\Debug\Randomize the Numbers 1…N.exe
+E:\C-Sharp\6. Loops-Homework\Randomize the Numbers 1…N\obj\Debug\Randomize the Numbers 1…N.pdb
