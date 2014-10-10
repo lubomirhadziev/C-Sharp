@@ -1,0 +1,6 @@
+E:\C-Sharp\6. Loops-Homework\Problem 15. Hexadecimal to Decimal Number\bin\Debug\Problem_15.Hexadecimal_to_Decimal_Number.exe.config
+E:\C-Sharp\6. Loops-Homework\Problem 15. Hexadecimal to Decimal Number\bin\Debug\Problem_15.Hexadecimal_to_Decimal_Number.exe
+E:\C-Sharp\6. Loops-Homework\Problem 15. Hexadecimal to Decimal Number\bin\Debug\Problem_15.Hexadecimal_to_Decimal_Number.pdb
+E:\C-Sharp\6. Loops-Homework\Problem 15. Hexadecimal to Decimal Number\obj\Debug\Problem 15. Hexadecimal to Decimal Number.csprojResolveAssemblyReference.cache
+E:\C-Sharp\6. Loops-Homework\Problem 15. Hexadecimal to Decimal Number\obj\Debug\Problem_15.Hexadecimal_to_Decimal_Number.exe
+E:\C-Sharp\6. Loops-Homework\Problem 15. Hexadecimal to Decimal Number\obj\Debug\Problem_15.Hexadecimal_to_Decimal_Number.pdb

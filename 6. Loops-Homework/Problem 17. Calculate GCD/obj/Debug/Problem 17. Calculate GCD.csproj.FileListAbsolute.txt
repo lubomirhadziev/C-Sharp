@@ -1,0 +1,6 @@
+E:\C-Sharp\6. Loops-Homework\Problem 17. Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.exe.config
+E:\C-Sharp\6. Loops-Homework\Problem 17. Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.exe
+E:\C-Sharp\6. Loops-Homework\Problem 17. Calculate GCD\bin\Debug\Problem_17.Calculate_GCD.pdb
+E:\C-Sharp\6. Loops-Homework\Problem 17. Calculate GCD\obj\Debug\Problem 17. Calculate GCD.csprojResolveAssemblyReference.cache
+E:\C-Sharp\6. Loops-Homework\Problem 17. Calculate GCD\obj\Debug\Problem_17.Calculate_GCD.exe
+E:\C-Sharp\6. Loops-Homework\Problem 17. Calculate GCD\obj\Debug\Problem_17.Calculate_GCD.pdb

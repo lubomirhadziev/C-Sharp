@@ -25,6 +25,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 13. Binary to Decim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 14. Decimal to Binary Number", "Problem 14. Decimal to Binary Number\Problem 14. Decimal to Binary Number.csproj", "{F14D19C2-57AF-48C1-BC72-A23010447F26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 15. Hexadecimal to Decimal Number", "Problem 15. Hexadecimal to Decimal Number\Problem 15. Hexadecimal to Decimal Number.csproj", "{9CF9F208-176F-467D-A58A-9B7C1636B4FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 16. Decimal to Hexadecimal Number", "Problem 16. Decimal to Hexadecimal Number\Problem 16. Decimal to Hexadecimal Number.csproj", "{4E4B3E85-65D4-42AD-9CE2-36CD88A36521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 17. Calculate GCD", "Problem 17. Calculate GCD\Problem 17. Calculate GCD.csproj", "{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +85,18 @@ Global
 		{F14D19C2-57AF-48C1-BC72-A23010447F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F14D19C2-57AF-48C1-BC72-A23010447F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F14D19C2-57AF-48C1-BC72-A23010447F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF9F208-176F-467D-A58A-9B7C1636B4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF9F208-176F-467D-A58A-9B7C1636B4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF9F208-176F-467D-A58A-9B7C1636B4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF9F208-176F-467D-A58A-9B7C1636B4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E4B3E85-65D4-42AD-9CE2-36CD88A36521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4B3E85-65D4-42AD-9CE2-36CD88A36521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4B3E85-65D4-42AD-9CE2-36CD88A36521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4B3E85-65D4-42AD-9CE2-36CD88A36521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
