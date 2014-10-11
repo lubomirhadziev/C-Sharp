@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 16. Decimal to Hexa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 17. Calculate GCD", "Problem 17. Calculate GCD\Problem 17. Calculate GCD.csproj", "{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 18. Trailing Zeroes in N!", "Problem 18. Trailing Zeroes in N!\Problem 18. Trailing Zeroes in N!.csproj", "{4DFE7E82-60A7-4815-B5D4-69791F1B91F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A68D9BF6-A3D4-4D04-B2E2-C6CD8DC56024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DFE7E82-60A7-4815-B5D4-69791F1B91F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFE7E82-60A7-4815-B5D4-69791F1B91F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFE7E82-60A7-4815-B5D4-69791F1B91F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFE7E82-60A7-4815-B5D4-69791F1B91F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

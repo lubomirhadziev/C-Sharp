@@ -1,0 +1,6 @@
+E:\C-Sharp\6. Loops-Homework\Problem 18. Trailing Zeroes in N!\bin\Debug\Problem_18.Trailing_Zeroes_in_N_.exe.config
+E:\C-Sharp\6. Loops-Homework\Problem 18. Trailing Zeroes in N!\bin\Debug\Problem_18.Trailing_Zeroes_in_N_.exe
+E:\C-Sharp\6. Loops-Homework\Problem 18. Trailing Zeroes in N!\bin\Debug\Problem_18.Trailing_Zeroes_in_N_.pdb
+E:\C-Sharp\6. Loops-Homework\Problem 18. Trailing Zeroes in N!\obj\Debug\Problem 18. Trailing Zeroes in N!.csprojResolveAssemblyReference.cache
+E:\C-Sharp\6. Loops-Homework\Problem 18. Trailing Zeroes in N!\obj\Debug\Problem_18.Trailing_Zeroes_in_N_.exe
+E:\C-Sharp\6. Loops-Homework\Problem 18. Trailing Zeroes in N!\obj\Debug\Problem_18.Trailing_Zeroes_in_N_.pdb
