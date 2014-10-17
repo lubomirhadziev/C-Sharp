@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Fibonacci Numbers", "CS Advanced Topics\Problem 1. Fibonacci Numbers.csproj", "{686C4AA0-5651-493F-B3CC-9829D7E532EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Prime Checker", "Problem 2. Prime Checker\Problem 2. Prime Checker.csproj", "{D2892058-E65C-496C-B5B6-49929B2D538D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Primes in Given Range", "Problem 3. Primes in Given Range\Problem 3. Primes in Given Range.csproj", "{8F0BB9D3-8B52-409F-8EAC-CF35643396FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686C4AA0-5651-493F-B3CC-9829D7E532EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686C4AA0-5651-493F-B3CC-9829D7E532EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686C4AA0-5651-493F-B3CC-9829D7E532EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686C4AA0-5651-493F-B3CC-9829D7E532EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2892058-E65C-496C-B5B6-49929B2D538D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2892058-E65C-496C-B5B6-49929B2D538D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2892058-E65C-496C-B5B6-49929B2D538D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2892058-E65C-496C-B5B6-49929B2D538D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0BB9D3-8B52-409F-8EAC-CF35643396FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0BB9D3-8B52-409F-8EAC-CF35643396FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0BB9D3-8B52-409F-8EAC-CF35643396FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0BB9D3-8B52-409F-8EAC-CF35643396FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
