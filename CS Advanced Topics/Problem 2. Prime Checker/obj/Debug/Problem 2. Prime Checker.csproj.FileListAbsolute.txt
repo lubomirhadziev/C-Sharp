@@ -1,0 +1,6 @@
+E:\C-Sharp\CS Advanced Topics\Problem 2. Prime Checker\bin\Debug\Problem_2.Prime_Checker.exe.config
+E:\C-Sharp\CS Advanced Topics\Problem 2. Prime Checker\obj\Debug\Problem 2. Prime Checker.csprojResolveAssemblyReference.cache
+E:\C-Sharp\CS Advanced Topics\Problem 2. Prime Checker\bin\Debug\Problem_2.Prime_Checker.exe
+E:\C-Sharp\CS Advanced Topics\Problem 2. Prime Checker\bin\Debug\Problem_2.Prime_Checker.pdb
+E:\C-Sharp\CS Advanced Topics\Problem 2. Prime Checker\obj\Debug\Problem_2.Prime_Checker.exe
+E:\C-Sharp\CS Advanced Topics\Problem 2. Prime Checker\obj\Debug\Problem_2.Prime_Checker.pdb
