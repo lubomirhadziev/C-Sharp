@@ -1,0 +1,6 @@
+E:\C-Sharp\CS Advanced Topics\Problem 5. Sorting Numbers\bin\Debug\Problem_5.Sorting_Numbers.exe.config
+E:\C-Sharp\CS Advanced Topics\Problem 5. Sorting Numbers\bin\Debug\Problem_5.Sorting_Numbers.exe
+E:\C-Sharp\CS Advanced Topics\Problem 5. Sorting Numbers\bin\Debug\Problem_5.Sorting_Numbers.pdb
+E:\C-Sharp\CS Advanced Topics\Problem 5. Sorting Numbers\obj\Debug\Problem 5. Sorting Numbers.csprojResolveAssemblyReference.cache
+E:\C-Sharp\CS Advanced Topics\Problem 5. Sorting Numbers\obj\Debug\Problem_5.Sorting_Numbers.exe
+E:\C-Sharp\CS Advanced Topics\Problem 5. Sorting Numbers\obj\Debug\Problem_5.Sorting_Numbers.pdb

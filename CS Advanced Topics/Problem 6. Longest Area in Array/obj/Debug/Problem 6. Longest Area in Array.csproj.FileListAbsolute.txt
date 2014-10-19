@@ -1,0 +1,6 @@
+E:\C-Sharp\CS Advanced Topics\Problem 6. Longest Area in Array\bin\Debug\Problem_6.Longest_Area_in_Array.exe.config
+E:\C-Sharp\CS Advanced Topics\Problem 6. Longest Area in Array\bin\Debug\Problem_6.Longest_Area_in_Array.exe
+E:\C-Sharp\CS Advanced Topics\Problem 6. Longest Area in Array\bin\Debug\Problem_6.Longest_Area_in_Array.pdb
+E:\C-Sharp\CS Advanced Topics\Problem 6. Longest Area in Array\obj\Debug\Problem_6.Longest_Area_in_Array.exe
+E:\C-Sharp\CS Advanced Topics\Problem 6. Longest Area in Array\obj\Debug\Problem_6.Longest_Area_in_Array.pdb
+E:\C-Sharp\CS Advanced Topics\Problem 6. Longest Area in Array\obj\Debug\Problem 6. Longest Area in Array.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\C-Sharp\CS Advanced Topics\Problem 7. Matrix of Palindromes\bin\Debug\Problem_7.Matrix_of_Palindromes.exe.config
+E:\C-Sharp\CS Advanced Topics\Problem 7. Matrix of Palindromes\bin\Debug\Problem_7.Matrix_of_Palindromes.exe
+E:\C-Sharp\CS Advanced Topics\Problem 7. Matrix of Palindromes\bin\Debug\Problem_7.Matrix_of_Palindromes.pdb
+E:\C-Sharp\CS Advanced Topics\Problem 7. Matrix of Palindromes\obj\Debug\Problem 7. Matrix of Palindromes.csprojResolveAssemblyReference.cache
+E:\C-Sharp\CS Advanced Topics\Problem 7. Matrix of Palindromes\obj\Debug\Problem_7.Matrix_of_Palindromes.exe
+E:\C-Sharp\CS Advanced Topics\Problem 7. Matrix of Palindromes\obj\Debug\Problem_7.Matrix_of_Palindromes.pdb
