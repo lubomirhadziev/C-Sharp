@@ -1,0 +1,6 @@
+E:\C-Sharp\BOJO-WORK\IsPrimeMethod\bin\Debug\IsPrimeMethod.exe.config
+E:\C-Sharp\BOJO-WORK\IsPrimeMethod\bin\Debug\IsPrimeMethod.exe
+E:\C-Sharp\BOJO-WORK\IsPrimeMethod\bin\Debug\IsPrimeMethod.pdb
+E:\C-Sharp\BOJO-WORK\IsPrimeMethod\obj\Debug\IsPrimeMethod.csprojResolveAssemblyReference.cache
+E:\C-Sharp\BOJO-WORK\IsPrimeMethod\obj\Debug\IsPrimeMethod.exe
+E:\C-Sharp\BOJO-WORK\IsPrimeMethod\obj\Debug\IsPrimeMethod.pdb

@@ -1,0 +1,6 @@
+E:\C-Sharp\CS Advanced Topics\Test\bin\Debug\Test.exe.config
+E:\C-Sharp\CS Advanced Topics\Test\bin\Debug\Test.exe
+E:\C-Sharp\CS Advanced Topics\Test\bin\Debug\Test.pdb
+E:\C-Sharp\CS Advanced Topics\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\C-Sharp\CS Advanced Topics\Test\obj\Debug\Test.exe
+E:\C-Sharp\CS Advanced Topics\Test\obj\Debug\Test.pdb

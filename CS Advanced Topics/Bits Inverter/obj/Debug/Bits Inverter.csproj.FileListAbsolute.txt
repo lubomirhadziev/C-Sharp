@@ -1,0 +1,6 @@
+E:\C-Sharp\CS Advanced Topics\Bits Inverter\bin\Debug\Bits Inverter.exe.config
+E:\C-Sharp\CS Advanced Topics\Bits Inverter\bin\Debug\Bits Inverter.exe
+E:\C-Sharp\CS Advanced Topics\Bits Inverter\bin\Debug\Bits Inverter.pdb
+E:\C-Sharp\CS Advanced Topics\Bits Inverter\obj\Debug\Bits Inverter.csprojResolveAssemblyReference.cache
+E:\C-Sharp\CS Advanced Topics\Bits Inverter\obj\Debug\Bits Inverter.exe
+E:\C-Sharp\CS Advanced Topics\Bits Inverter\obj\Debug\Bits Inverter.pdb

@@ -1,0 +1,5 @@
+E:\C-Sharp\BOJO-WORK\SortingNumbers\bin\Debug\SortingNumbers.exe.config
+E:\C-Sharp\BOJO-WORK\SortingNumbers\bin\Debug\SortingNumbers.exe
+E:\C-Sharp\BOJO-WORK\SortingNumbers\bin\Debug\SortingNumbers.pdb
+E:\C-Sharp\BOJO-WORK\SortingNumbers\obj\Debug\SortingNumbers.exe
+E:\C-Sharp\BOJO-WORK\SortingNumbers\obj\Debug\SortingNumbers.pdb

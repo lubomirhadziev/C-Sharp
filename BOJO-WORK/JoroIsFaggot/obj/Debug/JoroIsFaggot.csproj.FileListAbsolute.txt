@@ -1,0 +1,6 @@
+E:\C-Sharp\BOJO-WORK\JoroIsFaggot\bin\Debug\JoroIsFaggot.exe.config
+E:\C-Sharp\BOJO-WORK\JoroIsFaggot\bin\Debug\JoroIsFaggot.exe
+E:\C-Sharp\BOJO-WORK\JoroIsFaggot\bin\Debug\JoroIsFaggot.pdb
+E:\C-Sharp\BOJO-WORK\JoroIsFaggot\obj\Debug\JoroIsFaggot.csprojResolveAssemblyReference.cache
+E:\C-Sharp\BOJO-WORK\JoroIsFaggot\obj\Debug\JoroIsFaggot.exe
+E:\C-Sharp\BOJO-WORK\JoroIsFaggot\obj\Debug\JoroIsFaggot.pdb

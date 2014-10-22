@@ -1,0 +1,6 @@
+E:\C-Sharp\BOJO-WORK\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe.config
+E:\C-Sharp\BOJO-WORK\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.exe
+E:\C-Sharp\BOJO-WORK\PrimesInGivenRange\bin\Debug\PrimesInGivenRange.pdb
+E:\C-Sharp\BOJO-WORK\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.csprojResolveAssemblyReference.cache
+E:\C-Sharp\BOJO-WORK\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.exe
+E:\C-Sharp\BOJO-WORK\PrimesInGivenRange\obj\Debug\PrimesInGivenRange.pdb

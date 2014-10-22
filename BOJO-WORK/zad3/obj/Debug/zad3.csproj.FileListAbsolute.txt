@@ -1,0 +1,5 @@
+E:\C-Sharp\BOJO-WORK\zad3\bin\Debug\zad3.exe.config
+E:\C-Sharp\BOJO-WORK\zad3\bin\Debug\zad3.exe
+E:\C-Sharp\BOJO-WORK\zad3\bin\Debug\zad3.pdb
+E:\C-Sharp\BOJO-WORK\zad3\obj\Debug\zad3.exe
+E:\C-Sharp\BOJO-WORK\zad3\obj\Debug\zad3.pdb
